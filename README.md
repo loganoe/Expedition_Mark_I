@@ -14,4 +14,8 @@ Expedition is a small, affordable robot that maps out a floor with its cameras a
 * MPU 9250 IMU
 * Computer with Nodejs and a browser installed
 * 1A (or greater) 5v USB breadboard power supply (make sure you also have the right USB cable for it)
-* USB power bank with <i> at least <i> 2 USB output ports
+* USB power bank with <i> at least </i> 2 USB output ports
+
+## Instructions: 
+
+Coming soon...
