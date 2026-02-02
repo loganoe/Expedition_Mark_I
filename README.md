@@ -10,7 +10,7 @@ Expedition is a small, affordable robot that maps out a floor with its cameras a
 * 28byj-48 stepper motors * 2
 * ULN2003 driver boards * 2
 * HC-SR04 distance sensor
-* USB Arducam for raspberry pi
+* CSI Arducam for raspberry pi
 * MPU 9250 IMU
 * Computer with Nodejs and a browser installed
 * 1A (or greater) 5v USB breadboard power supply (make sure you also have the right USB cable for it)
